@@ -9,3 +9,6 @@ dst[i]=str[i];
 dst[len]='\0';
 return dst;
 }
+/**
+远程edit B21031517毛俊豪
+**/
